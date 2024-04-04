@@ -1,0 +1,8 @@
+.bt {
+  border-radius: 30px;
+}
+
+.bt:hover {
+  color: blue;
+  background: white;
+}
