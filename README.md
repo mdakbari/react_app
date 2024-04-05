@@ -23,12 +23,12 @@ https://react-app-five-blue.vercel.app/
 
 - Step 1: Clone the repository
 ```bash
-git clone <url>
+git clone https://github.com/mdakbari/react_app.git
 ```
 
 - Step 2: Navigate to the project directory
 ```bash
-cd <folder-name>
+cd react_app
 ```
 
 - Step 3: Install dependencies
@@ -133,6 +133,4 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 <p align='center'>
   📫 How to reach me: <a href='mailto:md.akbari1811@gmail.com'>md.akbari1811@gmail.com</a>
 </p>
-
-## License
 
